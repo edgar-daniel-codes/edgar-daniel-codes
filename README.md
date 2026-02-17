@@ -99,7 +99,7 @@ Email: eddn.professional@proton.me
 
 ## GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edgar-daniel-codes&show_icons=true&hide_border=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edgar-daniel-codes&layout=compact&hide_border=true)
 
