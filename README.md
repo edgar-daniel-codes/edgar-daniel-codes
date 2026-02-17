@@ -13,14 +13,14 @@ Reinforcement Learning · Optimization · Quantitative Modeling · Simulation Sy
 - Geospatial Network Modeling
 - Simulation-Based Decision Systems
 - Quantitative Finance Research (Portfolio Optimization, Risk Modeling)
-- - Data Visualization and strategic Insight 
+- Data Visualization and strategic Insight 
 
 ---
 
 ## Core Stack
 
 ### Languages
-[![Core](https://skillicons.dev/icons?i=python,r,sql,bash,linux,git)](https://skillicons.dev)
+[![Core](https://skillicons.dev/icons?i=python,r,sql,bash,linux,git,pyspark)](https://skillicons.dev)
 
 ### Machine Learning
 [![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
@@ -38,7 +38,7 @@ Reinforcement Learning · Optimization · Quantitative Modeling · Simulation Sy
 ![Ray RLlib](https://img.shields.io/badge/Ray%20RLlib-028CF0?style=for-the-badge)
 
 ### Data Engineering & Systems
-[![Infra](https://skillicons.dev/icons?i=docker,aws,postgres,pyspark)](https://skillicons.dev)
+[![Infra](https://skillicons.dev/icons?i=docker,aws,postgres)](https://skillicons.dev)
 
 ---
 
