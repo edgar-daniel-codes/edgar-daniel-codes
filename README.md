@@ -93,13 +93,3 @@ Reinforcement Learning · Optimization · Quantitative Modeling · Simulation Sy
 LinkedIn: [https://www.linkedin.com/in/edgardaniel/]  
 Email: eddn.professional@proton.me 
 
-
-
----
-
-## GitHub Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edgar-daniel-codes&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edgar-daniel-codes&layout=compact&hide_border=true)
-
