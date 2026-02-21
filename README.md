@@ -1,4 +1,4 @@
-# Edgar Daniel Díaz Nava
+# Edgar Daniel
 
 Mathematically-driven Data Scientist - Machine Learning Engineer  
 Reinforcement Learning · Optimization · Quantitative Modeling · Simulation Systems  
